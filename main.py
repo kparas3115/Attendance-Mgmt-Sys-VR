@@ -85,6 +85,4 @@ if __name__ == '__main__':
 
             elif 'gmail' in query:
                 webbrowser.open("gmail.com")
-
-            elif 'attendance' in query:
                 
